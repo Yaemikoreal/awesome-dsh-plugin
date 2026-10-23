@@ -1,0 +1,7 @@
+url: https://github.com/Yaemikoreal/dsh-plugin-obsidian
+name: Yaemikoreal/dsh-plugin-obsidian
+category: tools
+description:
+  en: 'Bridges DeepSeek Harness agents to a local Obsidian vault with seven tools: vault discovery and switching, indexed search (full-text, phrase, regex, tag, path, frontmatter, title), note reading with frontmatter, headings, wikilinks and backlinks, directory and tag-cloud listings, link graphs, safe atomic writes (create, overwrite, append, prepend, insert by heading, frontmatter merge, dry-run), and live integration with a running Obsidian app through its Local REST API plugin.'
+  zh: '把 DSH 智能体接进本地 Obsidian 仓库的七个工具：仓库发现与切换、带内存索引的搜索（全文、短语、正则、标签、路径、frontmatter、标题）、读取笔记（frontmatter、标题层级、双链与反向链接）、目录与标签云、链接图谱、原子写入（新建、覆盖、追加、前置、按标题插入、frontmatter 合并、dry-run 预览），以及经 Local REST API 插件操作正在运行的 Obsidian。'
+tarball: https://github.com/Yaemikoreal/dsh-plugin-obsidian/releases/latest/download/dsh-plugin-obsidian.tgz
